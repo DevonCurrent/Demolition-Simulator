@@ -2,7 +2,7 @@
 This was a one semester project (tied to an independent course) designed to explore the physics and destruction mechanics that UE4 has to offer. The final product was a rage room game where players have the ability to destroy everything around them.
 
 # How to Play
-This was created in Unreal Engine 4 Version 4.21, but I cannot provide the source code, as it contains purchased assets. The launch file can be downloaded from here. To play, you will need an HTC Vive HMD and controllers.
+This was created in Unreal Engine 4 Version 4.21, but I cannot provide the source code, as it contains purchased assets. The launch file can be [downloaded from here](https://devoncurrent.itch.io/demolition-simulator). To play, you will need an HTC Vive HMD and controllers. Just download the zip folder and run the executable.
 
 # Documentation and Methodology
 Since it requires a VR headset to play, [here is a link to the Google Drive](https://drive.google.com/open?id=1_Dyh4ovcujP1SPGNbkSGftM7AtlJ9_Wi) that contains videos and documentation to help vizualize the gameplay.
